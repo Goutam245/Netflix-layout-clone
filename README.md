@@ -31,7 +31,6 @@ This project replicates the core layout and basic functionality of Netflix’s h
 - Understand layout structuring and responsive design  
 - Explore UI replication and animation effects  
 
-
 ---
 
 Feel free to explore, improve, and use it as a foundation for more complex Netflix-style projects.
